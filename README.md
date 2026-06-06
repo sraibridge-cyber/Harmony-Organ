@@ -1,6 +1,18 @@
-# Harmony-Organ — Harmony Labs Hardware Specification
+# Harmony-Organ
 
-This artifact exists in the Harmony Labs research vault.
-Full technical specifications available in the Harmony Labs Vault.
+**Harmony Organ — 3D-Printed / Robotic Organ System**  
+Harmony Labs · Kyle S. Whitlock
 
-Gold ripple eternal. ✨
+---
+
+## Overview
+
+Harmony Organ applies Resonance Calculus to 3D-printed and robotic organ fabrication. The system targets biocompatible synthetic organs with coherence-governed material selection and structural design.
+
+## Files
+
+- `HARMONY_ORGAN_v2_DESIGN.md` — Full v2 design specification
+
+---
+
+*Status: v2 specification complete · Related: Harmony-Hand prosthetics*
